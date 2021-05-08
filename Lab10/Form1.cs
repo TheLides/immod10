@@ -70,7 +70,7 @@ namespace Lab10
             int ans = 0;
             while (rnd > 0)
             {
-                rnd -= 0.075;
+                rnd -= 0.05;
                 ans++;
             }
 
